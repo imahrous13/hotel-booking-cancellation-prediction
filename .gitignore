@@ -7,3 +7,4 @@ __pycache__/
 venv/
 *.log
 .streamlit/secrets.toml
+PROJECT_WALKTHROUGH.md
